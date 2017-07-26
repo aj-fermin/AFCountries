@@ -1,0 +1,10 @@
+framework module AFCountries {
+  umbrella header "AFCountries.h"
+
+  export *
+  module * { export * }
+}
+
+module AFCountries.Swift {
+    header "AFCountries-Swift.h"
+}
