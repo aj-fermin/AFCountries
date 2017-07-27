@@ -22,4 +22,5 @@ Access all countries with `AFCountry.allCountriesWithCodes()`
 Search for a country by country code: `AFCountry.countryWithCode("PH")`
 
 
-<iframe src="https://appetize.io/app/4evx0vd582jj3k4674973tq6ac?device=iphone7&scale=50&orientation=portrait&osVersion=10.3&deviceColor=black" width="208px" height="435px" frameborder="0" scrolling="no"></iframe>
+## Demo
+https://appetize.io/app/4evx0vd582jj3k4674973tq6ac?device=iphone7&scale=50&orientation=portrait&osVersion=10.3&deviceColor=black
